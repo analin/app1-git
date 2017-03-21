@@ -26,9 +26,9 @@
  
  <!--Plugins-->
  <!--Core plugigns-->
- <plugin name="cordova-pluging-device" spec="~1.1.4"/>
- <plugin name="cordova-pluging-vibration" spec="~2.1.3"/>
- <plugin name="cordova-pluging-dialogs" spec="~1.3.1"/>
+ <plugin name="cordova-plugin-device" spec="~1.1.4"/>
+ <plugin name="cordova-plugin-vibration" spec="~2.1.3"/>
+ <plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
  
  <!--<pluging name=cordova-plugin-geolocation" source="npm"/>-->
  <!--Third party plugings-->
